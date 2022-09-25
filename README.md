@@ -4,14 +4,14 @@ I'm an undegrad majoring in Business + CS at USC.
 ### Professional Interests
 - 🖥️ Software Engineering
 - ⚙️ Full Stack Development
-- 🤖 AI and ML
+- 🤖 Data Analytics
 - 🎨 UI/UX Design
 
 
 ### Personal Hobbies
-- ✈️ Aviation
-- ⚽ Soccer
 - 🎾 Tennis
+- ⚽ Soccer
+- 🏋️‍♂️ Lifting
 - 🏓 Ping Pong
 - 🎮 Gaming
  
