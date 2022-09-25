@@ -18,4 +18,4 @@ I'm an undegrad majoring in Business + CS at USC.
  ### Contact Me
 👔 [LinkedIn][LinkedIn]
 
-[LinkedIn]: https://www.linkedin.com/in/omarnaeem33
+[LinkedIn]: https://www.linkedin.com/in/omar-saleem-71462a220
