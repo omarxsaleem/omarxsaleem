@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Omar!
+I'm an undegrad majoring in Business + CS at USC.
 
-<!--
-**omarxsaleem/omarxsaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Professional Interests
+- 🖥️ Software Engineering
+- ⚙️ Full Stack Development
+- 🤖 AI and ML
+- 🎨 UI/UX Design
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Hobbies
+- ✈️ Aviation
+- ⚽ Soccer
+- 🎾 Tennis
+- 🏓 Ping Pong
+- 🎮 Gaming
+ 
+ ### Contact Me
+👔 [LinkedIn][LinkedIn]
+
+[LinkedIn]: https://www.linkedin.com/in/omarnaeem33
