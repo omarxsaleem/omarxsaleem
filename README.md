@@ -1,5 +1,4 @@
-# Hello, I'm Omar!
-I'm an undegrad majoring in Business + CS at USC.
+I'm an undergrad majoring in CS + Business at USC.
 
 ### Professional Interests
 - 🖥️ Software Engineering
